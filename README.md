@@ -16,4 +16,4 @@ HOW TO USE:
 
 - Execute script
 
-- You will be prompted for the location to the new .ckl, old .ckl, and desired output directory.
+- You will be prompted for the location to the blank new version of the STIG checklist, the filepath of the completed checklist (or directory path) and desired output directory.
