@@ -6,7 +6,7 @@ Instead of having to re-do an entire checklist manually when DISA releases a new
 
 For additional validation; any changes to the rule contents on the new STIG version, in comparison to your already-filled-out old checklist, will be marked as Not Reviewed.
 
-Old checklist files will be Archived in an 'Archive' folder in the destination output directory.
+Old checklist files are not altered during execution of this script and will be Archived in an 'Archive' folder created in the destination output directory.
 
 REQUIREMENTS:
 - A blank .ckl file of the new STIG checklist
