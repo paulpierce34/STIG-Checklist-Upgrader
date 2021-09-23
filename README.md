@@ -4,7 +4,7 @@ Use this script to 'upgrade' your DISA STIG checklist(s) from a previous version
 
 Instead of having to re-do an entire checklist manually when DISA releases a new version, you can use this script to complete the newer checklist, and mark any new items as Not Reviewed.
 
-For additional validation, any changes to the rule contents on the new checklist, in comparison to your already-filled-out old checklist, will be marked as Not Reviewed.
+For additional validation, any changes to the rule contents on the new STIG version, in comparison to your already-filled-out old checklist, will be marked as Not Reviewed.
 
 Old checklist files will be Archived in an 'Archive' folder in the destination output directory.
 
