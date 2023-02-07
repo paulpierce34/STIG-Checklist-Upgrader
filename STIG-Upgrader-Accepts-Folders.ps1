@@ -38,7 +38,7 @@ $eacholdckl = get-childitem $targetdir -file -filter "*.ckl" -name
 
 if ($fileorfolder -eq "file"){
 
-$oldckl = read-host "Please provide the full location for the old checklist file?: " ### C:\Users\1590500883E\Desktop\temp\New_completed\L2-AUG_20_NDM_L2_B1150_.F1_C1_S1.ckl
+$oldckl = read-host "Please provide the full location for the old checklist file?: " ### C:\Users\example\Desktop\temp\New_completed\L3-AUG_30_NDM_L2_43250.ckl
 
 }
 
